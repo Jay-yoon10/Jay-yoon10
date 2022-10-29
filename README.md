@@ -4,7 +4,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=06d6a0&height=200&section=header&text=Hello%20World!&20render&animation=fadeIn&fontSize=90&fontColor=f1faee)
   
-### 👋 Hi, I’m Jay. Welcome to my GitHub 👋
+### 👋 Hi, I’m Jay.
+### Welcome to my GitHub :tada:
 
   <hr/>
 
